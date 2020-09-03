@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW221</string>
+    <string name="note_format">Запись %d :</string>
+    <string name="note_format_saved">Запись %d сохранена!:</string>
+    <string name="notes">Notes</string>
+    <string name="save">Сохранить</string>
+
+</resources>
